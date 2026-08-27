@@ -1,5 +1,5 @@
 # MediGuide AI
-# Streamlit deploy linK: https://medical-ai-assistant-1abdullahh.streamlit.app 
+# Streamlit deploy link: https://medical-ai-assistant-1abdullahh.streamlit.app 
 An educational, safety-first Streamlit application built with LangChain that turns
 patient-reported symptoms into structured, general guidance — a summary, possible
 conditions (for education only), an urgency level, and questions to raise with a
